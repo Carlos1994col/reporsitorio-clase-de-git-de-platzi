@@ -1,1 +1,1 @@
-# reporsitorio-clase-de-git-de-platzi
+# Primer mini blog
